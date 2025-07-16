@@ -1,0 +1,15 @@
+F:\Ömer\apps\c#\MultiLayerArchitecture\EntitiyLayer\bin\Debug\net8.0\EntitiyLayer.deps.json
+F:\Ömer\apps\c#\MultiLayerArchitecture\EntitiyLayer\bin\Debug\net8.0\EntitiyLayer.runtimeconfig.json
+F:\Ömer\apps\c#\MultiLayerArchitecture\EntitiyLayer\bin\Debug\net8.0\EntitiyLayer.dll
+F:\Ömer\apps\c#\MultiLayerArchitecture\EntitiyLayer\bin\Debug\net8.0\EntitiyLayer.pdb
+F:\Ömer\apps\c#\MultiLayerArchitecture\EntitiyLayer\obj\Debug\net8.0\EntitiyLayer.csproj.AssemblyReference.cache
+F:\Ömer\apps\c#\MultiLayerArchitecture\EntitiyLayer\obj\Debug\net8.0\EntitiyLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ömer\apps\c#\MultiLayerArchitecture\EntitiyLayer\obj\Debug\net8.0\EntitiyLayer.AssemblyInfoInputs.cache
+F:\Ömer\apps\c#\MultiLayerArchitecture\EntitiyLayer\obj\Debug\net8.0\EntitiyLayer.AssemblyInfo.cs
+F:\Ömer\apps\c#\MultiLayerArchitecture\EntitiyLayer\obj\Debug\net8.0\EntitiyLayer.csproj.CoreCompileInputs.cache
+F:\Ömer\apps\c#\MultiLayerArchitecture\EntitiyLayer\obj\Debug\net8.0\EntitiyLayer.sourcelink.json
+F:\Ömer\apps\c#\MultiLayerArchitecture\EntitiyLayer\obj\Debug\net8.0\EntitiyLayer.dll
+F:\Ömer\apps\c#\MultiLayerArchitecture\EntitiyLayer\obj\Debug\net8.0\refint\EntitiyLayer.dll
+F:\Ömer\apps\c#\MultiLayerArchitecture\EntitiyLayer\obj\Debug\net8.0\EntitiyLayer.pdb
+F:\Ömer\apps\c#\MultiLayerArchitecture\EntitiyLayer\obj\Debug\net8.0\EntitiyLayer.genruntimeconfig.cache
+F:\Ömer\apps\c#\MultiLayerArchitecture\EntitiyLayer\obj\Debug\net8.0\ref\EntitiyLayer.dll
