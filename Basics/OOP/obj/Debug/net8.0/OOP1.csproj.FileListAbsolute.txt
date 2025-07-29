@@ -1,0 +1,15 @@
+F:\Ömer\apps\c#\basics\OOP\bin\Debug\net8.0\OOP1.exe
+F:\Ömer\apps\c#\basics\OOP\bin\Debug\net8.0\OOP1.deps.json
+F:\Ömer\apps\c#\basics\OOP\bin\Debug\net8.0\OOP1.runtimeconfig.json
+F:\Ömer\apps\c#\basics\OOP\bin\Debug\net8.0\OOP1.dll
+F:\Ömer\apps\c#\basics\OOP\bin\Debug\net8.0\OOP1.pdb
+F:\Ömer\apps\c#\basics\OOP\obj\Debug\net8.0\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ömer\apps\c#\basics\OOP\obj\Debug\net8.0\OOP1.AssemblyInfoInputs.cache
+F:\Ömer\apps\c#\basics\OOP\obj\Debug\net8.0\OOP1.AssemblyInfo.cs
+F:\Ömer\apps\c#\basics\OOP\obj\Debug\net8.0\OOP1.csproj.CoreCompileInputs.cache
+F:\Ömer\apps\c#\basics\OOP\obj\Debug\net8.0\OOP1.sourcelink.json
+F:\Ömer\apps\c#\basics\OOP\obj\Debug\net8.0\OOP1.dll
+F:\Ömer\apps\c#\basics\OOP\obj\Debug\net8.0\refint\OOP1.dll
+F:\Ömer\apps\c#\basics\OOP\obj\Debug\net8.0\OOP1.pdb
+F:\Ömer\apps\c#\basics\OOP\obj\Debug\net8.0\OOP1.genruntimeconfig.cache
+F:\Ömer\apps\c#\basics\OOP\obj\Debug\net8.0\ref\OOP1.dll
