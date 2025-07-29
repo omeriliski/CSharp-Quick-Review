@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Ömer\\apps\\c#\\basics\\Math\\Helper.csproj": {}
+    "F:\\Ömer\\apps\\c#\\Basics\\Math\\Helper.csproj": {}
   },
   "projects": {
-    "F:\\Ömer\\apps\\c#\\basics\\Basics1\\Basics1.csproj": {
+    "F:\\Ömer\\apps\\c#\\Basics\\Basics1\\Basics1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Ömer\\apps\\c#\\basics\\Basics1\\Basics1.csproj",
+        "projectUniqueName": "F:\\Ömer\\apps\\c#\\Basics\\Basics1\\Basics1.csproj",
         "projectName": "Basics1",
-        "projectPath": "F:\\Ömer\\apps\\c#\\basics\\Basics1\\Basics1.csproj",
+        "projectPath": "F:\\Ömer\\apps\\c#\\Basics\\Basics1\\Basics1.csproj",
         "packagesPath": "C:\\Users\\nimlo\\.nuget\\packages\\",
         "outputPath": "F:\\Ömer\\apps\\c#\\Basics\\Basics1\\obj\\",
         "projectStyle": "PackageReference",
@@ -69,12 +69,12 @@
         }
       }
     },
-    "F:\\Ömer\\apps\\c#\\basics\\Math\\Helper.csproj": {
+    "F:\\Ömer\\apps\\c#\\Basics\\Math\\Helper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Ömer\\apps\\c#\\basics\\Math\\Helper.csproj",
+        "projectUniqueName": "F:\\Ömer\\apps\\c#\\Basics\\Math\\Helper.csproj",
         "projectName": "Helper",
-        "projectPath": "F:\\Ömer\\apps\\c#\\basics\\Math\\Helper.csproj",
+        "projectPath": "F:\\Ömer\\apps\\c#\\Basics\\Math\\Helper.csproj",
         "packagesPath": "C:\\Users\\nimlo\\.nuget\\packages\\",
         "outputPath": "F:\\Ömer\\apps\\c#\\basics\\Math\\obj\\",
         "projectStyle": "PackageReference",
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\Ömer\\apps\\c#\\basics\\Basics1\\Basics1.csproj": {
-                "projectPath": "F:\\Ömer\\apps\\c#\\basics\\Basics1\\Basics1.csproj"
+              "F:\\Ömer\\apps\\c#\\Basics\\Basics1\\Basics1.csproj": {
+                "projectPath": "F:\\Ömer\\apps\\c#\\Basics\\Basics1\\Basics1.csproj"
               }
             }
           }

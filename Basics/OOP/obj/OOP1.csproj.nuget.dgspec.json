@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Ömer\\apps\\c#\\basics\\OOP\\OOP1.csproj": {}
+    "F:\\Ömer\\apps\\c#\\Basics\\OOP\\OOP1.csproj": {}
   },
   "projects": {
-    "F:\\Ömer\\apps\\c#\\basics\\OOP\\OOP1.csproj": {
+    "F:\\Ömer\\apps\\c#\\Basics\\OOP\\OOP1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Ömer\\apps\\c#\\basics\\OOP\\OOP1.csproj",
+        "projectUniqueName": "F:\\Ömer\\apps\\c#\\Basics\\OOP\\OOP1.csproj",
         "projectName": "OOP1",
-        "projectPath": "F:\\Ömer\\apps\\c#\\basics\\OOP\\OOP1.csproj",
+        "projectPath": "F:\\Ömer\\apps\\c#\\Basics\\OOP\\OOP1.csproj",
         "packagesPath": "C:\\Users\\nimlo\\.nuget\\packages\\",
         "outputPath": "F:\\Ömer\\apps\\c#\\basics\\OOP\\obj\\",
         "projectStyle": "PackageReference",
