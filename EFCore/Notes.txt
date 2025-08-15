@@ -1,0 +1,22 @@
+Migration commands
+- add-migration
+- update-database
+- remove-migration // delete the last migration which is not applied to the database
+- script-migration // generate a SQL script for the migration
+
+if migration is applied to the database we can use update-database <migration name>, so we can apply a specific migration
+Example:
+update-database 20231010123456_InitialCreate
+update-database 20231010123456_InitialCreate -context MyDbContext
+update-database -context MyDbContext
+
+now we want to go to the specific migration, so we can use the command: update-database -migration 20231010123456_InitialCreate
+now we can delete the migration after migration 20231010123456_InitialCreate
+
+
+States:
+- Added
+- Deleted
+- Detached: when the data is not tracked by the context, not added
+- Modified
+- Unchanged: when the data is get from the database
