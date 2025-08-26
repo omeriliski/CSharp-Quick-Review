@@ -1,0 +1,16 @@
+F:\Ömer\apps\c#\NETCoreAP-Web_NLayer-CleanArchitecture\Services\bin\Debug\net8.0\App.Services.deps.json
+F:\Ömer\apps\c#\NETCoreAP-Web_NLayer-CleanArchitecture\Services\bin\Debug\net8.0\App.Services.dll
+F:\Ömer\apps\c#\NETCoreAP-Web_NLayer-CleanArchitecture\Services\bin\Debug\net8.0\App.Services.pdb
+F:\Ömer\apps\c#\NETCoreAP-Web_NLayer-CleanArchitecture\Services\bin\Debug\net8.0\App.Repositories.dll
+F:\Ömer\apps\c#\NETCoreAP-Web_NLayer-CleanArchitecture\Services\bin\Debug\net8.0\App.Repositories.pdb
+F:\Ömer\apps\c#\NETCoreAP-Web_NLayer-CleanArchitecture\Services\obj\Debug\net8.0\App.Services.csproj.AssemblyReference.cache
+F:\Ömer\apps\c#\NETCoreAP-Web_NLayer-CleanArchitecture\Services\obj\Debug\net8.0\App.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ömer\apps\c#\NETCoreAP-Web_NLayer-CleanArchitecture\Services\obj\Debug\net8.0\App.Services.AssemblyInfoInputs.cache
+F:\Ömer\apps\c#\NETCoreAP-Web_NLayer-CleanArchitecture\Services\obj\Debug\net8.0\App.Services.AssemblyInfo.cs
+F:\Ömer\apps\c#\NETCoreAP-Web_NLayer-CleanArchitecture\Services\obj\Debug\net8.0\App.Services.csproj.CoreCompileInputs.cache
+F:\Ömer\apps\c#\NETCoreAP-Web_NLayer-CleanArchitecture\Services\obj\Debug\net8.0\App.Services.sourcelink.json
+F:\Ömer\apps\c#\NETCoreAP-Web_NLayer-CleanArchitecture\Services\obj\Debug\net8.0\App.Serv.164048D1.Up2Date
+F:\Ömer\apps\c#\NETCoreAP-Web_NLayer-CleanArchitecture\Services\obj\Debug\net8.0\App.Services.dll
+F:\Ömer\apps\c#\NETCoreAP-Web_NLayer-CleanArchitecture\Services\obj\Debug\net8.0\refint\App.Services.dll
+F:\Ömer\apps\c#\NETCoreAP-Web_NLayer-CleanArchitecture\Services\obj\Debug\net8.0\App.Services.pdb
+F:\Ömer\apps\c#\NETCoreAP-Web_NLayer-CleanArchitecture\Services\obj\Debug\net8.0\ref\App.Services.dll
